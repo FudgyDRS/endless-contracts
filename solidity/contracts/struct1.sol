@@ -1,4 +1,8 @@
 /*
+  Author:
+    TG:     @Anon_Grunt
+    Others: FudgyDRS
+
   A simple test for seeing what do structs actually do:
     What do you think the results are? How do these two structs end up being initalized and what is the gas difference?
 */
